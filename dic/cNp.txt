@@ -1,0 +1,182 @@
+1a2 1 a 3
+1i2 1 i 3
+1u2 1 u 3
+1oo2 1 oo 3
+1e2 1 e 3
+1ae2 1 ae 3
+1ia2 1 ia 3
+1ua2 1 ua 3
+1ooa2 1 ooa 3
+1o2 1 o 3
+1oh2 1 oh 3
+1eh2 1 eh 3
+1ai2 1 ai 3
+1ao2 1 ao 3
+
+1a 1 a
+1i 1 i
+1u 1 u
+1oo 1 oo
+1e 1 e
+1ae 1 ae
+1ia 1 ia
+1ua 1 ua
+1ooa 1 ooa
+1o 1 o
+1oh 1 oh
+1eh 1 eh
+1ai 1 ai
+1ao 1 ao
+
+##add end
+
+w
+l
+N
+M
+NG
+dcl
+bcl
+gcl
+
+###use this
+1a 1 a
+1i 1 i
+1u 1 u
+1oo 1 oo
+1e 1 e
+1ae 1 ae
+1ia 1 ia
+1ua 1 ua
+1ooa 1 ooa
+1o 1 o
+1oh 1 oh
+1eh 1 eh
+1ai 1 ai
+1ao 1 ao
+1aw 1 a w
+1iw 1 i w
+1uw 1 u w
+1oow 1 oo w
+1ew 1 e w
+1aew 1 ae w
+1iaw 1 ia w
+1uaw 1 ua w
+1ooaw 1 ooa w
+1ow 1 o w
+1ohw 1 oh w
+1ehw 1 eh w
+1aiw 1 ai w
+1aow 1 ao w
+1al 1 a l
+1il 1 i l
+1ul 1 u l
+1ool 1 oo l
+1el 1 e l
+1ael 1 ae l
+1ial 1 ia l
+1ual 1 ua l
+1ooal 1 ooa l
+1ol 1 o l
+1ohl 1 oh l
+1ehl 1 eh l
+1ail 1 ai l
+1aol 1 ao l
+1an 1 a N
+1in 1 i N
+1un 1 u N
+1oon 1 oo N
+1en 1 e N
+1aen 1 ae N
+1ian 1 ia N
+1uan 1 ua N
+1ooan 1 ooa N
+1on 1 o N
+1ohn 1 oh N
+1ehn 1 eh N
+1ain 1 ai N
+1aon 1 ao N
+1am 1 a M
+1im 1 i M
+1um 1 u M
+1oom 1 oo M
+1em 1 e M
+1aem 1 ae M
+1iam 1 ia M
+1uam 1 ua M
+1ooam 1 ooa M
+1om 1 o M
+1ohm 1 oh M
+1ehm 1 eh M
+1aim 1 ai M
+1aom 1 ao M
+1ang 1 a NG
+1ing 1 i NG
+1ung 1 u NG
+1oong 1 oo NG
+1eng 1 e NG
+1aeng 1 ae NG
+1iang 1 ia NG
+1uang 1 ua NG
+1ooang 1 ooa NG
+1ong 1 o NG
+1ohng 1 oh NG
+1ehng 1 eh NG
+1aing 1 ai NG
+1aong 1 ao NG
+1ad 1 a dcl
+1id 1 i dcl
+1ud 1 u dcl
+1ood 1 oo dcl
+1ed 1 e dcl
+1aed 1 ae dcl
+1iad 1 ia dcl
+1uad 1 ua dcl
+1ooad 1 ooa dcl
+1od 1 o dcl
+1ohd 1 oh dcl
+1ehd 1 eh dcl
+1aid 1 ai dcl
+1aod 1 ao dcl
+1ab 1 a bcl
+1ib 1 i bcl
+1ub 1 u bcl
+1oob 1 oo bcl
+1eb 1 e bcl
+1aeb 1 ae bcl
+1iab 1 ia bcl
+1uab 1 ua bcl
+1ooab 1 ooa bcl
+1ob 1 o bcl
+1ohb 1 oh bcl
+1ehb 1 eh bcl
+1aib 1 ai bcl
+1aob 1 ao bcl
+1ag 1 a gcl
+1ig 1 i gcl
+1ug 1 u gcl
+1oog 1 oo gcl
+1eg 1 e gcl
+1aeg 1 ae gcl
+1iag 1 ia gcl
+1uag 1 ua gcl
+1ooag 1 ooa gcl
+1og 1 o gcl
+1ohg 1 oh gcl
+1ehg 1 eh gcl
+1aig 1 ai gcl
+1aog 1 ao gcl
+1ay 1 a y
+1iy 1 i y
+1uy 1 u y
+1ooy 1 oo y
+1ey 1 e y
+1aey 1 ae y
+1iay 1 ia y
+1uay 1 ua y
+1ooay 1 ooa y
+1oy 1 o y
+1ohy 1 oh y
+1ehy 1 eh y
+1aiy 1 ai y
+1aoy 1 ao y

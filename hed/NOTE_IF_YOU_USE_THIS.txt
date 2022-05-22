@@ -1,0 +1,5 @@
+in_dim:
+
+timelag - 322
+duration - 322
+acoustic - 326

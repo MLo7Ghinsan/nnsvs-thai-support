@@ -1,0 +1,103 @@
+Vowels: (use [sil]/[pau] for short conso)
+
+a = อะ/อา
+
+i = อิ/อี
+
+u = อึ/อื
+
+oo = อุ/อู
+
+e = เอะ/เอ	
+
+ae = เเอะ/เเอ
+
+ia = เอียะ/เอีย
+
+ua = เอือะ/เอือ
+
+ooa = อัวะ/อัว
+
+o = โอะ/โอ
+
+oh = เอาะ/ออ
+
+eh = เออะ/เออ
+
+ai = ใอ/ไอ
+
+ao = เอา
+
+N = น (ลงท้าย)
+
+M = อำ
+
+NG = ง (ลงท้าย)
+
+
+Consonants: (use {consonant}cl for hold)
+
+g = ก
+
+k = ข/ฃ/ค/ฅ/ฆ
+
+ng = ง
+
+j = จ
+
+sh = ช/ฌ/ฉ
+
+s = ซ/ศ/ษ/ส
+
+d = ด/ฎ
+
+t = ต/ฏ
+
+th = ท/ธ/ฑ/ฒ/ถ/ฐ
+
+n = น/ณ
+
+b = บ
+
+p = ป
+
+ph = พ/ภ/ผ
+
+f = ฟ/ฝ
+
+m = ม
+
+r = ร
+
+y = ย/ญ
+
+l = ล/ฬ
+
+w = ว
+
+h = ฮ/ห
+
+Double_Consonants:
+
+gr, gl, gw
+
+kr, kl, kw
+
+tr, tl, tw
+
+pr, pl, pw
+
+phr, phl, phw
+
+hold_consonants:
+
+gcl
+
+bcl
+
+dcl
+
+
+
+
+
